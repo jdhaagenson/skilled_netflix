@@ -1,0 +1,30 @@
+.menu {
+    display: grid;
+    grid-template-rows: auto auto auto;
+    grid-template-columns: 1fr;
+    gap: 10px;
+    /* overflow:hidden; */
+    max-width: 75vw;
+    margin: 30px;
+}
+.row {
+    display: inline-block;
+    overflow-x: scroll;
+    white-space: nowrap;
+    border-radius: 5px;
+  }
+  
+
+  #top-row {
+    height: 100px;
+  }
+  
+  #middle-row {
+    height: 150px;
+  }
+  
+  #bottom-row {
+    height: 300px;
+
+  }
+  
