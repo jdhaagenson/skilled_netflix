@@ -1,6 +1,4 @@
 import React from "react";
-// import Genre from './Genre';
-// import MovieCard from './MovieCard';
 import Menu from "./Menu";
 import "./styles.css";
 
